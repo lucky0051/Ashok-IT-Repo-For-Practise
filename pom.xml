@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>maven-web-app</finalName>
+    <finalName>Ashok-IT-Repo-For-Practise</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
