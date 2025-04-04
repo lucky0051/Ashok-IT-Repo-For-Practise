@@ -1,4 +1,4 @@
 FROM tomcat:latest
 MAINTAINER Ashok <ashok@oracle.coms>
 EXPOSE 8080
-COPY target/maven-web-app.war /usr/local/tomcat/webapps/maven-web-app.war
+COPY target/Ashok-IT-Repo-For-Practise.war /usr/local/tomcat/webapps/Ashok-IT-Repo-For-Practise.war
